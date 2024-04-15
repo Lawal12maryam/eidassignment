@@ -1,0 +1,139 @@
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h5 {
+  color: rgb(77, 53, 53);
+  text-align: center;
+  font-weight: 300;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+.background {
+  background-image: url(images/organic-cotton-top-sheet_willow_detail_7830.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.lmo {
+  width: 330px;
+  height: 400px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.bed {
+  display: flex;
+  gap: 3px;
+  padding-top: 40px;
+}
+.about {
+  margin-left: 30px;
+}
+.pen {
+  font-weight: 100;
+  color: rgb(124, 118, 118);
+}
+.book {
+  font-weight: 500;
+  color: rgb(56, 56, 80);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.comit {
+  width: 200px;
+  height: 50px;
+  background-color: white;
+  color: rgb(22, 22, 26);
+  font-weight: 800;
+}
+.lko {
+  width: 900px;
+  height: 600px;
+  margin-top: 40px;
+}
+.mmm {
+  text-align: center;
+  margin-top: 300px;
+}
+.bbb {
+  font-weight: 900;
+}
+.ccc {
+  color: black;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.ddd {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 50px;
+  font-weight: 200;
+}
+.maryam {
+  display: flex;
+  gap: 15px;
+}
+.POPULAR {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 40px;
+}
+.hhh {
+  width: 200px;
+  height: 200px;
+}
+.eee {
+  color: rgb(43, 43, 61);
+  font-weight: 200;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.fff {
+  color: grey;
+  font-weight: 200;
+  padding-bottom: 20px;
+}
+.ggg {
+  color: grey;
+  font-weight: 400;
+}
+.heading {
+  font-weight: 900;
+  font-size: xx-large;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: rgb(19, 19, 34);
+}
+.cotton {
+  display: flex;
+  margin-left: 30px;
+  margin-right: 20px;
+  gap: 10px;
+}
+.www {
+  font-size: xx-large;
+  font-weight: bold;
+}
+.xxx {
+  font-size: xx-large;
+  font-weight: bold;
+  margin-left: 200px;
+}
+.vvv {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.know {
+  display: flex;
+  color: rgb(28, 28, 37);
+  gap: 20px;
+}
+.parachute {
+  display: flex;
+  gap: 200px;
+  margin-top: 40px;
+}
